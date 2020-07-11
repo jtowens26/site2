@@ -15,8 +15,8 @@ pygmentscodefencesguesssyntax = true
 #disqusShortname = "ink-demo"
 
 [params]
-	#subtitle = "Chemical Engineering Grad Student @ MIT, [[cv]](resume.pdf)"
-	subtitle = "Chemical Engineering Grad Student @ MIT, [[cv]](https://jamestowens.com/resume.pdf)"
+	#subtitle = "Chemical Engineering Grad Student @ MIT, [[cv]](CV.pdf)"
+	subtitle = "Chemical Engineering Grad Student @ MIT, [[cv]](https://jamestowens.com/CV.pdf)"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://jamestowens.com/avatar_head.jpg"
