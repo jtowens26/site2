@@ -11,7 +11,7 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-#googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-174218328-1"
 #disqusShortname = "ink-demo"
 
 [params]
@@ -38,25 +38,25 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
+#[[menu.main]]
+#name = "All posts"
+#url = "/posts"
+#weight = 2
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Publications"
 url = "/publications"
-weight = 3
+weight = 2
 
-#[[menu.main]]
-#name = "Tags"
-#url = "/tags"
-#weight = 4
+[[menu.main]]
+name = "Good Reads"
+url = "/tags"
+weight = 4
 
 
 
