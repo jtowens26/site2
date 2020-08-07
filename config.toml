@@ -34,7 +34,7 @@ googleAnalytics = "UA-174218328-1"
 
 # Nav.
 [[menu.main]]
-name = "Home"
+name = "Posts"
 url = "/"
 weight = 1
 
@@ -55,7 +55,7 @@ weight = 2
 
 [[menu.main]]
 name = "Good Reads"
-url = "/tags"
+url = "/readings"
 weight = 4
 
 
