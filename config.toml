@@ -16,7 +16,7 @@ googleAnalytics = "UA-174218328-1"
 
 [params]
 	#subtitle = "Chemical Engineering Grad Student @ MIT, [[cv]](CV.pdf)"
-	subtitle = "Chemical Engineering Grad Student @ MIT, [[cv]](https://jamestowens.com/CV.pdf)"
+	subtitle = "Chemical Engineering Grad Student @ MIT, [[resume](https://jamestowens.com/resume.pdf)"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://jamestowens.com/avatar_head.jpg"
